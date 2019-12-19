@@ -1,2 +1,2 @@
 # types-hospitality
-A collection of data types commonly used in hospitality applications
+A collection of data types commonly used in hospitality stories
